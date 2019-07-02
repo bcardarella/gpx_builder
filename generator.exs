@@ -39,17 +39,41 @@ defmodule GPXBuilder do
 
   def write(content, path) do
     File.write!(path, content)
+
+    path
   end
 
-  def build(name) do
-    "data/#{name}.csv"
+  def build(bayname) do
+    output_path = "output/#{bayname}-waypoints.gpx"
+
+    "data/#{bayname}.csv"
     |> GPXBuilder.parse_waypoints(fn id, name ->
-      "#{String.upcase(name)}-#{id} #{name}"
+      "#{String.upcase(bayname)}-#{id} #{name}"
     end)
     |> GPXBuilder.render_waypoints()
-    |> GPXBuilder.write("output/#{name}-waypoints.gpx")
+    |> GPXBuilder.write(output_path)
+    |> GPXBuilder.validate(bayname)
 
-    IO.puts("Built #{String.upcase(name)}")
+    IO.puts("built #{bayname} at #{output_path}")
+  end
+
+  def validate(gpx_path, bayname) do
+    saxcount_path = System.find_executable("SAXCount")
+
+    port =
+      Port.open({:spawn_executable, saxcount_path}, [
+        :binary,
+        :exit_status,
+        args: ["-v=always", "-n", "-s", "-f", gpx_path]
+      ])
+
+    receive do
+      {^port, {:exit_status, 0}} ->
+        IO.puts("#{bayname} validation passed!")
+
+      {^port, {:exit_status, _code}} ->
+        IO.puts("#{bayname} failed, for error list run:\nSAXCount -v=always -s -f #{gpx_path}")
+    end
   end
 end
 
