@@ -1,5 +1,11 @@
 # Mass Bay, Hingham Bay, and Salem Bay racing mark GPX builder
 
+
+### Requirements
+
+1. [Elixir](https://elixir-lang.org)
+2. SAXCount part of the [Xerces Apache](https://xerces.apache.org) library
+
 This script is written in Elixir. To run:
 
 ```cmd
