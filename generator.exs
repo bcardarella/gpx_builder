@@ -43,13 +43,11 @@ defmodule GPXBuilder do
     path
   end
 
-  def build(bayname) do
+  def build(bayname, name_modifier) do
     output_path = "output/#{bayname}-waypoints.gpx"
 
     "data/#{bayname}.csv"
-    |> GPXBuilder.parse_waypoints(fn id, name ->
-      "#{String.upcase(bayname)}-#{id} #{name}"
-    end)
+    |> GPXBuilder.parse_waypoints(name_modifier)
     |> GPXBuilder.render_waypoints()
     |> GPXBuilder.write(output_path)
     |> GPXBuilder.validate(bayname)
@@ -77,6 +75,14 @@ defmodule GPXBuilder do
   end
 end
 
-GPXBuilder.build("hb")
-GPXBuilder.build("mb")
-GPXBuilder.build("sb")
+GPXBuilder.build("hb", fn id, name ->
+  "HB-#{String.pad_leading(id, 2, "0")} #{name}"
+end)
+
+GPXBuilder.build("mb", fn id, name ->
+  "MB-#{id} #{name}"
+end)
+
+GPXBuilder.build("sb", fn id, name ->
+  "SB-#{String.pad_leading(id, 2, "0")} #{name}"
+end)
