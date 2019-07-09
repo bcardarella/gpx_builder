@@ -86,3 +86,7 @@ end)
 GPXBuilder.build("sb", fn id, name ->
   "SB-#{String.pad_leading(id, 2, "0")} #{name}"
 end)
+
+GPXBuilder.build("cp", fn id, name ->
+  "CP-#{id} #{name}"
+end)
