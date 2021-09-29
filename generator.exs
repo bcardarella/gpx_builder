@@ -1,7 +1,7 @@
 defmodule GPXBuilder do
   def parse_waypoints(file_path, name_modifier) do
     File.read!(file_path)
-    |> String.split("\r\n", trim: true)
+    |> String.split(~r/(\r\n|\n)/, trim: true)
     |> Enum.map(fn row ->
       [id, name, color, light, lat, lon, gov_num] = String.split(row, ",")
 
@@ -89,4 +89,8 @@ end)
 
 GPXBuilder.build("cp", fn id, name ->
   "CP-#{id} #{name}"
+end)
+
+GPXBuilder.build("bl", fn id, name ->
+  "BL-#{String.pad_leading(id, 2, "0")} #{name}"
 end)
