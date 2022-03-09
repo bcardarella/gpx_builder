@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Mass Bay Racing" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="42.343303" lon="-70.959445">
+    <name>CP-A President Roads Anchorage Buoy “A”</name>
+    <desc>Y “A”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.345322" lon="-70.964053">
+    <name>CP-B President Roads Anchorage Buoy “B”</name>
+    <desc>Y “B”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.344245" lon="-70.971938">
+    <name>CP-C President Roads Anchorage Buoy “C”</name>
+    <desc>YC “C”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.342587" lon="-70.980855">
+    <name>CP-D President Roads Anchorage Buoy “D”</name>
+    <desc>Y “D”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.337002" lon="-70.979697">
+    <name>CP-E President Roads Anchorage Buoy “E”</name>
+    <desc>YN “E”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.334648" lon="-70.982535">
+    <name>CP-F 9/10 Mile S of Airport Pier in Main Ship Channel</name>
+    <desc>R #2
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.334495" lon="-70.990950">
+    <name>CP-G 9/10 Mile SW of Airport Pier in Main Ship Channel</name>
+    <desc>R #4
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.349187" lon="-70.979050">
+    <name>CP-H 3/10 Mile E of Airport Pier (Winthrop)</name>
+    <desc>GC #3
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.341620" lon="-70.937182">
+    <name>CP-I 8/10 Mile E of Deer Island Light (flash Green)</name>
+    <desc>GR “PR”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.334267" lon="-70.945067">
+    <name>CP-J 1/10 Mile N of Nix’s Mate Day Marker</name>
+    <desc>G #15
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.332972" lon="-70.937242">
+    <name>CP-K 2/10 Mile NW of Lovell Is The Narrows</name>
+    <desc>RN #10
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.332653" lon="-70.958833">
+    <name>CP-L 1/10 Mile N of Long Island Head</name>
+    <desc>G #17
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.327588" lon="-71.000507">
+    <name>CP-M 4/10 Mile N of Thompson’s Island</name>
+    <desc>RN #2
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.321807" lon="-71.013370">
+    <name>CP-N 2/10 Mile NW of Thompson’s Island Pier</name>
+    <desc>RN #4
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.315303" lon="-70.980860">
+    <name>CP-O 3/10 Mile SW Spectacle Isl. Sculpin Ledge</name>
+    <desc>RN #8A
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.331313" lon="-70.978860">
+    <name>CP-P 3/10 Mile NE Spectacle Isl. Main Ship Ch #1</name>
+    <desc>G #1
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.331223" lon="-70.991535">
+    <name>CP-Q 2/10 Mile NW Spectacle Isl. Main Ship Ch #3</name>
+    <desc>G #3
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.336917" lon="-70.998450">
+    <name>CP-R 2/10 Mile SW Lower Middle Main Ship Ch #6</name>
+    <desc>R #6"
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.340817" lon="-71.004878">
+    <name>CP-S 4/10 Mile W Lower Middle Main hip Ch #8</name>
+    <desc>R #8
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.345390" lon="-71.012157">
+    <name>CP-T 2/10 Mile SW of Airport Radar Main Ship Ch #10</name>
+    <desc>R #10
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.341175" lon="-70.993477">
+    <name>CP-U .15 mile SE Bass Point on Long Island</name>
+    <desc>RN #4
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.279800" lon="-70.963403">
+    <name>CP-V 3/10 Mile SW West Head Long Isl.</name>
+    <desc>RN #6
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.325528" lon="-70.947382">
+    <name>CP-W 2/10 Mile SW Nix’s Mate Nubble Ch</name>
+    <desc>GC #1
+Gov: </desc>
+  </wpt>
+
+</gpx>

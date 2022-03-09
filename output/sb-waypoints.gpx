@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Mass Bay Racing" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="42.542968" lon="-70.839223">
+    <name>SB-01 Salem Channel Buoy (Curtin Point)</name>
+    <desc>G "13"
+Fl G 4s
+Gov: 10035</desc>
+  </wpt>
+
+  <wpt lat="42.518843" lon="-70.824497">
+    <name>SB-02 Marblehead Channel (Chappel LG)</name>
+    <desc>G "3"
+Fl G 4s
+Gov: 10465</desc>
+  </wpt>
+
+  <wpt lat="42.504043" lon="-70.817955">
+    <name>SB-03 Marblehead Channel Bell (15-ft Rock)</name>
+    <desc>RG "FR"
+Fl (2+1) R 6s
+Gov: 10425</desc>
+  </wpt>
+
+  <wpt lat="42.542472" lon="-70.809250">
+    <name>SB-04 Salem Channel Buoy (Bowditch LG)</name>
+    <desc>G "11"
+Fl G 4s
+Gov: 10020</desc>
+  </wpt>
+
+  <wpt lat="42.528113" lon="-70.799413">
+    <name>SB-05 "Eagle I Channel Can (Pope Head)"</name>
+    <desc>GC "5"
+Gov: 10375</desc>
+  </wpt>
+
+  <wpt lat="42.508102" lon="-70.780652">
+    <name>SB-06 "Children's I Channel Nun (Near Half Rock)"</name>
+    <desc>RN "4"
+Gov: 10390</desc>
+  </wpt>
+
+  <wpt lat="42.539878" lon="-70.788157">
+    <name>SB-07 Salem Channel Bell (Power LG)</name>
+    <desc>G "9"
+Q G
+Gov: 9995</desc>
+  </wpt>
+
+  <wpt lat="42.547128" lon="-70.764848">
+    <name>SB-08 Salem Channel Nun (Gales LG)</name>
+    <desc>RN "6"
+Gov: 9980</desc>
+  </wpt>
+
+  <wpt lat="42.529445" lon="-70.761968">
+    <name>SB-09 Salem Channel Can</name>
+    <desc>GC "5"
+Gov: 9970</desc>
+  </wpt>
+
+  <wpt lat="42.519127" lon="-70.751215">
+    <name>SB-00 Salem Channel Can</name>
+    <desc>GC "3"
+Gov: 9965</desc>
+  </wpt>
+
+</gpx>

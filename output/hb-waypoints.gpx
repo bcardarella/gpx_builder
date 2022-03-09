@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Mass Bay Racing" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="42.369620" lon="-70.919270">
+    <name>HB-01 Boston North Channel Bell (Finns Ledge)</name>
+    <desc>R "2"
+Q R
+Gov: 10685</desc>
+  </wpt>
+
+  <wpt lat="42.357388" lon="-70.925695">
+    <name>HB-02 Boston North Channel Buoy</name>
+    <desc>G "5"
+Fl 2.5s
+Gov: 10700</desc>
+  </wpt>
+
+  <wpt lat="42.341487" lon="-70.937107">
+    <name>HB-03 President Roads Junction</name>
+    <desc>GR "PR"
+Fl (2+1) G6s
+Gov: 10735</desc>
+  </wpt>
+
+  <wpt lat="42.343193" lon="-70.959362">
+    <name>HB-04 President Roads Anchorage Gong</name>
+    <desc>Y "A"
+Gov: 10815</desc>
+  </wpt>
+
+  <wpt lat="42.336882" lon="-70.979647">
+    <name>HB-05 President Roads Anchorage Buoy</name>
+    <desc>N "E"
+Gov: 10860</desc>
+  </wpt>
+
+  <wpt lat="42.350303" lon="-70.978388">
+    <name>HB-06 Winthrop Harbor Approach Buoy</name>
+    <desc>RN "4"
+Gov: 11045</desc>
+  </wpt>
+
+  <wpt lat="42.345305" lon="-71.012083">
+    <name>HB-07 Boston Main Channel Buoy (Castle Island)</name>
+    <desc>R "10"
+Fl 6s
+Gov: 10910</desc>
+  </wpt>
+
+  <wpt lat="42.336690" lon="-70.998340">
+    <name>HB-08 Boston Main Channel Buoy</name>
+    <desc>R "6"
+Fl 2.5s
+Gov: 10895</desc>
+  </wpt>
+
+  <wpt lat="42.332593" lon="-70.958732">
+    <name>HB-09 Long Island Head Buoy (President Roads)</name>
+    <desc>G "17"
+Fl 2.5s
+Gov: 10805</desc>
+  </wpt>
+
+  <wpt lat="42.315098" lon="-70.980882">
+    <name>HB-10 Sculpin Ledge Buoy (Sculpin Ledge Channel)</name>
+    <desc>RN "8A"
+Gov: 11575</desc>
+  </wpt>
+
+  <wpt lat="42.321570" lon="-71.013338">
+    <name>HB-11 Dorchester Bay Buoy (NW Thompson Is.)</name>
+    <desc>RN "4"
+Gov: 11205</desc>
+  </wpt>
+
+  <wpt lat="42.306555" lon="-70.975908">
+    <name>HB-12 Western Way Buoy (West Head)</name>
+    <desc>RN "6"
+Gov: 11564</desc>
+  </wpt>
+
+  <wpt lat="42.318647" lon="-70.879722">
+    <name>HB-13 Nantasket Roads Chan Bell (Pt. Allerton)</name>
+    <desc>G "3"
+Fl 4s
+Gov: 11355</desc>
+  </wpt>
+
+  <wpt lat="42.320598" lon="-70.911705">
+    <name>HB-14 Kelly Rock Bell (The Narrows)</name>
+    <desc>R "2"
+Gov: 11415</desc>
+  </wpt>
+
+  <wpt lat="42.311215" lon="-70.921097">
+    <name>HB-15 Nantasket Roads Channel Buoy (N Hull Gut)</name>
+    <desc>G "11"
+Fl 2.5s
+Gov: 11395</desc>
+  </wpt>
+
+  <wpt lat="42.310455" lon="-70.945365">
+    <name>HB-16 Rainsford Island Shoal Danger Buoy</name>
+    <desc>W Or
+Gov: 11507</desc>
+  </wpt>
+
+  <wpt lat="42.293877" lon="-70.923405">
+    <name>HB-17 Weymouth Fore River Channel Buoy</name>
+    <desc>G "5"
+Fl 4s
+Gov: 11660</desc>
+  </wpt>
+
+  <wpt lat="42.290293" lon="-70.914318">
+    <name>HB-18 Bumkin Island (Shoal) Buoy</name>
+    <desc>G "1"
+Fl 4s
+Gov: 11945</desc>
+  </wpt>
+
+  <wpt lat="42.282083" lon="-70.910000">
+    <name>HB-19 Crow Point Flats Buoy (Bumkin Is.)</name>
+    <desc>RN "2"
+Gov: 11970</desc>
+  </wpt>
+
+  <wpt lat="42.275330" lon="-70.943863">
+    <name>HB-21 Houghs Neck Channel Buoy</name>
+    <desc>GC "1"
+Gov: 11620</desc>
+  </wpt>
+
+  <wpt lat="42.271177" lon="-70.929722">
+    <name>HB-22 Weymouth Fore River Channel Light</name>
+    <desc>13"
+Q G
+Gov: 11710</desc>
+  </wpt>
+
+  <wpt lat="42.277448" lon="-70.932172">
+    <name>HB-23 Western Way Buoy WW</name>
+    <desc>RG "WW"
+Fl (2+1) R6s
+Gov: 11695</desc>
+  </wpt>
+
+  <wpt lat="42.284185" lon="-70.929788">
+    <name>HB-24 Weymouth Fore River Channel Buoy</name>
+    <desc>G "9"
+Fl 2.5s
+Gov: 11685</desc>
+  </wpt>
+
+  <wpt lat="42.283413" lon="-70.949912">
+    <name>HB-25 Western Way Buoy (Peddocks Island)</name>
+    <desc>R "2"
+Fl 2.5s
+Gov: 11537</desc>
+  </wpt>
+
+  <wpt lat="42.286667" lon="-70.957778">
+    <name>HB-26 Western Way Buoy (Peddocks Island)</name>
+    <desc>G "3"
+Fl 2.5s
+Gov: 11539</desc>
+  </wpt>
+
+  <wpt lat="42.406112" lon="-70.946250">
+    <name>HB-27 Nahant Rock</name>
+    <desc>GC "1"
+Gov: 10560</desc>
+  </wpt>
+
+  <wpt lat="42.412013" lon="-70.905987">
+    <name>HB-28 Shag Rocks Lighted Buoy</name>
+    <desc>R "2"
+Fl 4s
+Gov: 10540</desc>
+  </wpt>
+
+  <wpt lat="42.262272" lon="-70.937288">
+    <name>HB-29 Weymouth Fore River Channel Buoy</name>
+    <desc>G "17"
+Fl 6s
+Gov: 11725</desc>
+  </wpt>
+
+  <wpt lat="42.325390" lon="-70.947367">
+    <name>HB-31 Nubble Channel Buoy</name>
+    <desc>GC "1"
+Gov: 11485</desc>
+  </wpt>
+
+  <wpt lat="42.312222" lon="-70.937500">
+    <name>HB-32 Hospital Shoal Buoy</name>
+    <desc>GR "HS"
+Gov: 11504</desc>
+  </wpt>
+
+  <wpt lat="42.334035" lon="-70.944583">
+    <name>HB-33 Nixes Mate Bell (President Roads)</name>
+    <desc>G "15"
+Q G
+Gov: 10790</desc>
+  </wpt>
+
+  <wpt lat="42.296667" lon="-70.913333">
+    <name>HB-34 HB PHRF (West of Outer Seal Rock</name>
+    <desc>Orange Barrel “34”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.291667" lon="-70.896667">
+    <name>HB-35 HB PHRF (Middle of Hull Bay</name>
+    <desc>Orange Barrel “35”
+Gov: </desc>
+  </wpt>
+
+  <wpt lat="42.273980" lon="-70.898863">
+    <name>HB-37 Hingham Harbor Approach Buoy</name>
+    <desc>RN "6"
+Gov: 11990</desc>
+  </wpt>
+
+  <wpt lat="42.288333" lon="-70.923333">
+    <name>HB-HB Hingham Bay Starting Buoy (N of Sheep I.)</name>
+    <desc>White "HBSB"
+Gov: </desc>
+  </wpt>
+
+</gpx>

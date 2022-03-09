@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Mass Bay Racing" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="42.570677" lon="-70.663915">
+    <name>MB-A Eastern Poiint Whistle</name>
+    <desc>R "2"
+Fl R 4s
+Gov: 340</desc>
+  </wpt>
+
+  <wpt lat="42.507732" lon="-70.739792">
+    <name>MB-B Newcomb Ledge Whistle</name>
+    <desc>G "1"
+Fl G 4s
+Gov: 355</desc>
+  </wpt>
+
+  <wpt lat="42.481872" lon="-70.814438">
+    <name>MB-D Tinkers Rock Gong</name>
+    <desc>GR "TR"
+Gov: 10410</desc>
+  </wpt>
+
+  <wpt lat="42.460435" lon="-70.836822">
+    <name>MB-G Great Pig Rocks Buoy</name>
+    <desc>R "4"
+Fl R 4s
+Gov: 365</desc>
+  </wpt>
+
+  <wpt lat="42.402372" lon="-70.924235">
+    <name>MB-H Flip Rock Gong</name>
+    <desc>RG "FR"
+Gov: 10555</desc>
+  </wpt>
+
+  <wpt lat="42.390783" lon="-70.858072">
+    <name>MB-J Boston Approach Buoy</name>
+    <desc>RW "BG"
+Mo (A) W
+Gov: 385</desc>
+  </wpt>
+
+  <wpt lat="42.378377" lon="-70.782822">
+    <name>MB-K Boston Lighted Whistle</name>
+    <desc>RW "B"
+Mo (A) W
+Gov: 410</desc>
+  </wpt>
+
+  <wpt lat="42.345560" lon="-70.651088">
+    <name>MB-L Boston Approach Buoy</name>
+    <desc>Y "BF"
+Fl (4)Y 20s
+Gov: 420</desc>
+  </wpt>
+
+  <wpt lat="42.375578" lon="-70.904953">
+    <name>MB-M Boston Entrance Whistle</name>
+    <desc>RW "NC"
+Mo (A) W
+Gov: 10680</desc>
+  </wpt>
+
+  <wpt lat="42.375783" lon="-70.857902">
+    <name>MB-N The Graves Lighted Whistle</name>
+    <desc>G "5"
+Fl G 4s
+Gov: 380</desc>
+  </wpt>
+
+  <wpt lat="42.364612" lon="-70.897167">
+    <name>MB-P Boston South Entrance Can</name>
+    <desc>GC "1"
+Gov: 10740</desc>
+  </wpt>
+
+  <wpt lat="42.351382" lon="-70.841607">
+    <name>MB-Q Fathom Ledge Bell</name>
+    <desc>R "2"
+Fl R 4s
+Gov: 395</desc>
+  </wpt>
+
+  <wpt lat="42.334623" lon="-70.863803">
+    <name>MB-R Boston Ledge Nun</name>
+    <desc>RN "6"
+Gov: 405</desc>
+  </wpt>
+
+  <wpt lat="42.326130" lon="-70.830370">
+    <name>MB-S Thieves Ledge Whistle</name>
+    <desc>G "1"
+Q G
+Gov: 430</desc>
+  </wpt>
+
+  <wpt lat="42.309497" lon="-70.843853">
+    <name>MB-U Harding Ledge Bell</name>
+    <desc>G "1HL"
+Fl G 4s
+Gov: 435</desc>
+  </wpt>
+
+  <wpt lat="42.276323" lon="-70.706127">
+    <name>MB-V 21 Foot Lighted Buoy (near Minots)</name>
+    <desc>G "21"
+Fl G 4s
+Gov: 450</desc>
+  </wpt>
+
+  <wpt lat="42.272470" lon="-70.747578">
+    <name>MB-X David Ledge Gong</name>
+    <desc>G "1DL"
+Fl G 2.5s
+Gov: 445</desc>
+  </wpt>
+
+  <wpt lat="42.202095" lon="-70.697040">
+    <name>MB-Y Scituate Approach Gong</name>
+    <desc>RW "SA"
+Mo (A) W
+Gov: 460</desc>
+  </wpt>
+
+  <wpt lat="42.093292" lon="-70.607247">
+    <name>MB-Z Farnham Rock Bell</name>
+    <desc>R "6"
+Fl R 4s
+Gov: 12490</desc>
+  </wpt>
+
+</gpx>

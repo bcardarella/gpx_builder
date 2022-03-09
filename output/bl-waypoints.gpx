@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Mass Bay Racing" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="42.332667" lon="-70.958733">
+    <name>BL-01 North of Long Island</name>
+    <desc>G "17"
+Fl G 2.5s
+Gov: 1</desc>
+  </wpt>
+
+  <wpt lat="42.331000" lon="-70.950650">
+    <name>BL-02 Nubble Channel</name>
+    <desc>C “5”
+Gov: 2</desc>
+  </wpt>
+
+  <wpt lat="42.375800" lon="-70.857900">
+    <name>BL-03 Graves Light</name>
+    <desc>G "5"
+Fl G 4s
+Gov: 3</desc>
+  </wpt>
+
+  <wpt lat="42.334600" lon="-70.863600">
+    <name>BL-04 Boston Ledge</name>
+    <desc>R N “6”
+Gov: 4</desc>
+  </wpt>
+
+  <wpt lat="42.312000" lon="-70.937400">
+    <name>BL-05 Hospital Shoal</name>
+    <desc>GR C “HS”
+Gov: 5</desc>
+  </wpt>
+
+  <wpt lat="42.320617" lon="-70.911667">
+    <name>BL-06 Kelly Rock</name>
+    <desc>R “2”
+Gov: 6</desc>
+  </wpt>
+
+  <wpt lat="42.331383" lon="-70.978900">
+    <name>BL-07 Northeast of Spectacle Island</name>
+    <desc>G “1”
+Gov: 7</desc>
+  </wpt>
+
+  <wpt lat="42.299167" lon="-70.952800">
+    <name>BL-08 South of Quarantine Rocks</name>
+    <desc>R N “2P”
+Gov: 8</desc>
+  </wpt>
+
+  <wpt lat="42.306567" lon="-70.975983">
+    <name>BL-09 South of Long Island</name>
+    <desc>R N “6”
+Gov: 9</desc>
+  </wpt>
+
+  <wpt lat="42.331250" lon="-70.991117">
+    <name>BL-10 North of Spectacle Island</name>
+    <desc>G “3”
+Q G
+Gov: 10</desc>
+  </wpt>
+
+  <wpt lat="42.348650" lon="-70.894867">
+    <name>BL-11 Hypocrite Channel Between Calf I and Green I</name>
+    <desc>Gov: 11</desc>
+  </wpt>
+
+</gpx>
